@@ -1,0 +1,1635 @@
+
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.6 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.7 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.8 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.9 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.1 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.3 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.5 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.6 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.7 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.8 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.9 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.2 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.5 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.6 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.7 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.8 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.9 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.5 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.6 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.7 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.8 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.9 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.5 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.6 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.7 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.8 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.9 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.5 MS_layered_awgn 30 50 1000000000 codeword_irregular_588_672.txt
+
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.6 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.7 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.8 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.9 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.1 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.3 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.5 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.6 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.7 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.8 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.9 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.2 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.5 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.6 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.7 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.8 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.9 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.5 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.6 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.7 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.8 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.9 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.5 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.6 MS_layered_awgn 30 50 1000000000 
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.7 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.8 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.9 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.0 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.1 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.2 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.3 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.4 MS_layered_awgn 30 50 1000000000
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.5 MS_layered_awgn 30 50 1000000000 codeword_irregular_588_672.txt
+
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 0.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 1.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 2.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 3.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.6 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.7 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.8 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 4.9 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.0 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+# ./main H_irregular_588_672.h 84 rs2048.dat awgn 5.1 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.2 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+0.4154M=84
+N=672
+block 500001 error block 20 errorbit 166.
+ Block error rate: 4.000e-05
+block 1000001 error block 38 errorbit 318.
+ Block error rate: 3.800e-05
+Decoded 1212020 blocks, 1211970 valid.  Average 1.7 iterations
+Block error rate: 4.125e-05
+Bit error rate: 4.936e-07
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.3 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+0.4107M=84
+N=672
+block 500001 error block 11 errorbit 77.
+ Block error rate: 2.200e-05
+block 1000001 error block 21 errorbit 158.
+ Block error rate: 2.100e-05
+block 1500001 error block 34 errorbit 263.
+ Block error rate: 2.267e-05
+block 2000001 error block 40 errorbit 322.
+ Block error rate: 2.000e-05
+Decoded 2000001 blocks, 1999961 valid.  Average 1.6 iterations
+Block error rate: 2.000e-05
+Bit error rate: 2.396e-07
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.4 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+0.4060M=84
+N=672
+block 500001 error block 3 errorbit 14.
+ Block error rate: 6.000e-06
+block 1000001 error block 7 errorbit 42.
+ Block error rate: 7.000e-06
+block 1500001 error block 9 errorbit 55.
+ Block error rate: 6.000e-06
+block 2000001 error block 11 errorbit 76.
+ Block error rate: 5.500e-06
+Decoded 2000001 blocks, 1999990 valid.  Average 1.5 iterations
+Block error rate: 5.500e-06
+Bit error rate: 5.655e-08
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.5 MS_flooding_awgn_orig 30 50 2000000 codeword_irregular_588_672.txt
+0.4013M=84
+N=672
+block 500001 error block 3 errorbit 20.
+ Block error rate: 6.000e-06
+block 1000001 error block 6 errorbit 45.
+ Block error rate: 6.000e-06
+block 1500001 error block 7 errorbit 54.
+ Block error rate: 4.667e-06
+block 2000001 error block 10 errorbit 77.
+ Block error rate: 5.000e-06
+Decoded 2000001 blocks, 1999991 valid.  Average 1.4 iterations
+Block error rate: 5.000e-06
+Bit error rate: 5.729e-08
+
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.0 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7559M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.857e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.1 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7473M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.682e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.2 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7387M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.375e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.3 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7303M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.131e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.4 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7219M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.821e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.6 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7055M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.423e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.7 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6974M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.205e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.8 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6894M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.000e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.9 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6815M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.801e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.0 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6737M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.625e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.1 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6660M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.286e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.2 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6584M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.185e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.3 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6509M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.872e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.4 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6434M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.583e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.5 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6360M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.378e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.6 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6288M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.232e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.7 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6216M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.893e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.8 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6144M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.774e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.9 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6074M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.554e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.0 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6005M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.372e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.1 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5936M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.152e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.2 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5868M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.839e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.3 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5801M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.595e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.4 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5734M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.545e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.5 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5669M=84
+N=672
+Decoded 51 blocks, 1 valid.  Average 29.6 iterations
+Block error rate: 9.804e-01
+Bit error rate: 4.240e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.6 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5604M=84
+N=672
+Decoded 51 blocks, 1 valid.  Average 29.5 iterations
+Block error rate: 9.804e-01
+Bit error rate: 4.097e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.7 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5540M=84
+N=672
+Decoded 52 blocks, 2 valid.  Average 29.1 iterations
+Block error rate: 9.615e-01
+Bit error rate: 3.663e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.8 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5476M=84
+N=672
+Decoded 53 blocks, 3 valid.  Average 28.9 iterations
+Block error rate: 9.434e-01
+Bit error rate: 3.378e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.9 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5414M=84
+N=672
+Decoded 58 blocks, 8 valid.  Average 27.6 iterations
+Block error rate: 8.621e-01
+Bit error rate: 2.948e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.0 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5352M=84
+N=672
+Decoded 64 blocks, 14 valid.  Average 25.6 iterations
+Block error rate: 7.812e-01
+Bit error rate: 2.539e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.1 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5290M=84
+N=672
+Decoded 71 blocks, 21 valid.  Average 23.5 iterations
+Block error rate: 7.042e-01
+Bit error rate: 2.295e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.2 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5230M=84
+N=672
+Decoded 77 blocks, 27 valid.  Average 21.8 iterations
+Block error rate: 6.494e-01
+Bit error rate: 2.047e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.3 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5170M=84
+N=672
+Decoded 84 blocks, 34 valid.  Average 20.3 iterations
+Block error rate: 5.952e-01
+Bit error rate: 1.892e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.4 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5111M=84
+N=672
+Decoded 88 blocks, 38 valid.  Average 19.2 iterations
+Block error rate: 5.682e-01
+Bit error rate: 1.765e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.5 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5052M=84
+N=672
+Decoded 98 blocks, 48 valid.  Average 17.5 iterations
+Block error rate: 5.102e-01
+Bit error rate: 1.341e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.6 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4994M=84
+N=672
+Decoded 136 blocks, 86 valid.  Average 14.3 iterations
+Block error rate: 3.676e-01
+Bit error rate: 9.585e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.7 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4937M=84
+N=672
+Decoded 213 blocks, 163 valid.  Average 10.9 iterations
+Block error rate: 2.347e-01
+Bit error rate: 5.862e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.8 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4881M=84
+N=672
+Decoded 299 blocks, 249 valid.  Average 8.9 iterations
+Block error rate: 1.672e-01
+Bit error rate: 4.544e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.9 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4825M=84
+N=672
+Decoded 415 blocks, 365 valid.  Average 7.1 iterations
+Block error rate: 1.205e-01
+Bit error rate: 2.768e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.0 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4770M=84
+N=672
+Decoded 695 blocks, 645 valid.  Average 5.1 iterations
+Block error rate: 7.194e-02
+Bit error rate: 1.627e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.1 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4715M=84
+N=672
+Decoded 1278 blocks, 1228 valid.  Average 4.0 iterations
+Block error rate: 3.912e-02
+Bit error rate: 9.199e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.2 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4661M=84
+N=672
+Decoded 1821 blocks, 1771 valid.  Average 3.3 iterations
+Block error rate: 2.746e-02
+Bit error rate: 6.407e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.3 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4608M=84
+N=672
+Decoded 2977 blocks, 2927 valid.  Average 2.7 iterations
+Block error rate: 1.680e-02
+Bit error rate: 3.624e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.4 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4555M=84
+N=672
+Decoded 5167 blocks, 5117 valid.  Average 2.3 iterations
+Block error rate: 9.677e-03
+Bit error rate: 1.927e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.5 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4503M=84
+N=672
+Decoded 10996 blocks, 10946 valid.  Average 1.9 iterations
+Block error rate: 4.547e-03
+Bit error rate: 1.000e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.6 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4451M=84
+N=672
+Decoded 17152 blocks, 17102 valid.  Average 1.7 iterations
+Block error rate: 2.915e-03
+Bit error rate: 5.908e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.7 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4400M=84
+N=672
+Decoded 31227 blocks, 31177 valid.  Average 1.5 iterations
+Block error rate: 1.601e-03
+Bit error rate: 3.050e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.8 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4350M=84
+N=672
+Decoded 67473 blocks, 67423 valid.  Average 1.4 iterations
+Block error rate: 7.410e-04
+Bit error rate: 1.354e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.9 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4300M=84
+N=672
+Decoded 121025 blocks, 120975 valid.  Average 1.3 iterations
+Block error rate: 4.131e-04
+Bit error rate: 8.373e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.0 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4251M=84
+N=672
+Decoded 265564 blocks, 265514 valid.  Average 1.2 iterations
+Block error rate: 1.883e-04
+Bit error rate: 3.396e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.1 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4202M=84
+N=672
+block 500001 error block 40 errorbit 423.
+ Block error rate: 8.000e-05
+Decoded 632545 blocks, 632495 valid.  Average 1.2 iterations
+Block error rate: 7.905e-05
+Bit error rate: 1.209e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.2 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4154M=84
+N=672
+block 500001 error block 24 errorbit 223.
+ Block error rate: 4.800e-05
+block 1000001 error block 45 errorbit 459.
+ Block error rate: 4.500e-05
+Decoded 1022909 blocks, 1022859 valid.  Average 1.1 iterations
+Block error rate: 4.888e-05
+Bit error rate: 7.710e-07
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.3 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4107M=84
+N=672
+block 500001 error block 16 errorbit 149.
+ Block error rate: 3.200e-05
+block 1000001 error block 27 errorbit 260.
+ Block error rate: 2.700e-05
+block 1500001 error block 43 errorbit 393.
+ Block error rate: 2.867e-05
+Decoded 1750333 blocks, 1750283 valid.  Average 1.1 iterations
+Block error rate: 2.857e-05
+Bit error rate: 3.885e-07
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.4 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4060M=84
+N=672
+block 500001 error block 4 errorbit 34.
+ Block error rate: 8.000e-06
+block 1000001 error block 11 errorbit 93.
+ Block error rate: 1.100e-05
+block 1500001 error block 20 errorbit 188.
+ Block error rate: 1.333e-05
+block 2000001 error block 27 errorbit 261.
+ Block error rate: 1.350e-05
+Decoded 2000001 blocks, 1999974 valid.  Average 1.0 iterations
+Block error rate: 1.350e-05
+Bit error rate: 1.942e-07
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.5 OMS_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4013M=84
+N=672
+block 500001 error block 5 errorbit 57.
+ Block error rate: 1.000e-05
+block 1000001 error block 7 errorbit 84.
+ Block error rate: 7.000e-06
+block 1500001 error block 12 errorbit 122.
+ Block error rate: 8.000e-06
+block 2000001 error block 18 errorbit 164.
+ Block error rate: 9.000e-06
+Decoded 2000001 blocks, 1999983 valid.  Average 1.0 iterations
+Block error rate: 9.000e-06
+Bit error rate: 1.220e-07
+
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.0 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7559M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.917e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.1 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7473M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.631e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.2 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7387M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.405e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.3 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7303M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.071e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.4 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7219M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.833e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.6 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7055M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.318e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.7 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6974M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.152e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.8 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6894M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.949e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.9 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6815M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.753e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.0 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6737M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.518e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.1 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6660M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.342e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.2 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6584M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.137e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.3 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6509M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.884e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.4 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6434M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.580e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.5 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6360M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.420e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.6 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6288M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.265e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.7 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6216M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.988e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.8 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6144M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.789e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.9 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6074M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.518e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.0 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6005M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.435e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.1 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5936M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.071e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.2 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5868M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.890e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.3 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5801M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.643e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.4 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5734M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.467e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.5 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5669M=84
+N=672
+Decoded 51 blocks, 1 valid.  Average 29.8 iterations
+Block error rate: 9.804e-01
+Bit error rate: 4.231e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.6 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5604M=84
+N=672
+Decoded 51 blocks, 1 valid.  Average 29.6 iterations
+Block error rate: 9.804e-01
+Bit error rate: 3.974e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.7 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5540M=84
+N=672
+Decoded 52 blocks, 2 valid.  Average 29.5 iterations
+Block error rate: 9.615e-01
+Bit error rate: 3.795e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.8 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5476M=84
+N=672
+Decoded 52 blocks, 2 valid.  Average 29.3 iterations
+Block error rate: 9.615e-01
+Bit error rate: 3.580e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.9 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5414M=84
+N=672
+Decoded 53 blocks, 3 valid.  Average 28.7 iterations
+Block error rate: 9.434e-01
+Bit error rate: 3.310e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.0 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5352M=84
+N=672
+Decoded 58 blocks, 8 valid.  Average 27.6 iterations
+Block error rate: 8.621e-01
+Bit error rate: 2.889e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.1 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5290M=84
+N=672
+Decoded 65 blocks, 15 valid.  Average 26.5 iterations
+Block error rate: 7.692e-01
+Bit error rate: 2.434e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.2 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5230M=84
+N=672
+Decoded 70 blocks, 20 valid.  Average 24.6 iterations
+Block error rate: 7.143e-01
+Bit error rate: 2.281e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.3 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5170M=84
+N=672
+Decoded 80 blocks, 30 valid.  Average 22.5 iterations
+Block error rate: 6.250e-01
+Bit error rate: 1.974e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.4 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5111M=84
+N=672
+Decoded 91 blocks, 41 valid.  Average 20.7 iterations
+Block error rate: 5.495e-01
+Bit error rate: 1.696e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.5 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5052M=84
+N=672
+Decoded 96 blocks, 46 valid.  Average 19.6 iterations
+Block error rate: 5.208e-01
+Bit error rate: 1.507e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.6 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4994M=84
+N=672
+Decoded 125 blocks, 75 valid.  Average 16.7 iterations
+Block error rate: 4.000e-01
+Bit error rate: 1.042e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.7 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4937M=84
+N=672
+Decoded 146 blocks, 96 valid.  Average 14.8 iterations
+Block error rate: 3.425e-01
+Bit error rate: 8.021e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.8 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4881M=84
+N=672
+Decoded 215 blocks, 165 valid.  Average 12.3 iterations
+Block error rate: 2.326e-01
+Bit error rate: 5.883e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.9 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4825M=84
+N=672
+Decoded 301 blocks, 251 valid.  Average 10.2 iterations
+Block error rate: 1.661e-01
+Bit error rate: 3.673e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.0 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4770M=84
+N=672
+Decoded 444 blocks, 394 valid.  Average 8.2 iterations
+Block error rate: 1.126e-01
+Bit error rate: 2.540e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.1 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4715M=84
+N=672
+Decoded 756 blocks, 706 valid.  Average 6.5 iterations
+Block error rate: 6.614e-02
+Bit error rate: 1.364e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.2 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4661M=84
+N=672
+Decoded 1204 blocks, 1154 valid.  Average 5.4 iterations
+Block error rate: 4.153e-02
+Bit error rate: 8.516e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.3 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4608M=84
+N=672
+Decoded 1802 blocks, 1752 valid.  Average 4.6 iterations
+Block error rate: 2.775e-02
+Bit error rate: 6.004e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.4 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4555M=84
+N=672
+Decoded 2620 blocks, 2570 valid.  Average 3.9 iterations
+Block error rate: 1.908e-02
+Bit error rate: 3.538e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.5 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4503M=84
+N=672
+Decoded 5218 blocks, 5168 valid.  Average 3.4 iterations
+Block error rate: 9.582e-03
+Bit error rate: 1.771e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.6 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4451M=84
+N=672
+Decoded 9325 blocks, 9275 valid.  Average 3.0 iterations
+Block error rate: 5.362e-03
+Bit error rate: 7.915e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.7 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4400M=84
+N=672
+Decoded 17984 blocks, 17934 valid.  Average 2.6 iterations
+Block error rate: 2.780e-03
+Bit error rate: 5.180e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.8 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4350M=84
+N=672
+Decoded 28280 blocks, 28230 valid.  Average 2.4 iterations
+Block error rate: 1.768e-03
+Bit error rate: 3.320e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.9 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4300M=84
+N=672
+Decoded 56954 blocks, 56904 valid.  Average 2.2 iterations
+Block error rate: 8.779e-04
+Bit error rate: 1.573e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.0 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4251M=84
+N=672
+Decoded 98543 blocks, 98493 valid.  Average 2.0 iterations
+Block error rate: 5.074e-04
+Bit error rate: 8.910e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.1 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4202M=84
+N=672
+Decoded 139886 blocks, 139836 valid.  Average 1.8 iterations
+Block error rate: 3.574e-04
+Bit error rate: 5.936e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.2 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4154M=84
+N=672
+Decoded 420146 blocks, 420096 valid.  Average 1.7 iterations
+Block error rate: 1.190e-04
+Bit error rate: 1.661e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.3 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4107M=84
+N=672
+block 500001 error block 28 errorbit 389.
+ Block error rate: 5.600e-05
+Decoded 872166 blocks, 872116 valid.  Average 1.6 iterations
+Block error rate: 5.733e-05
+Bit error rate: 1.065e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.4 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4060M=84
+N=672
+block 500001 error block 13 errorbit 75.
+ Block error rate: 2.600e-05
+block 1000001 error block 31 errorbit 235.
+ Block error rate: 3.100e-05
+Decoded 1363938 blocks, 1363888 valid.  Average 1.5 iterations
+Block error rate: 3.666e-05
+Bit error rate: 4.844e-07
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.5 OMS_flooding_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4013M=84
+N=672
+block 500001 error block 11 errorbit 81.
+ Block error rate: 2.200e-05
+block 1000001 error block 18 errorbit 147.
+ Block error rate: 1.800e-05
+block 1500001 error block 31 errorbit 277.
+ Block error rate: 2.067e-05
+block 2000001 error block 40 errorbit 343.
+ Block error rate: 2.000e-05
+Decoded 2000001 blocks, 1999961 valid.  Average 1.4 iterations
+Block error rate: 2.000e-05
+Bit error rate: 2.552e-07
+
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.0 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7559M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.533e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.1 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7473M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.277e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.2 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7387M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 9.051e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.3 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7303M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.792e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.4 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7219M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.589e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.6 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.7055M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 8.095e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.7 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6974M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.810e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.8 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6894M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.574e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 0.9 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6815M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.390e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.0 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6737M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 7.149e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.1 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6660M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.914e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.2 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6584M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.640e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.3 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6509M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.417e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.4 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6434M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 6.173e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.5 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6360M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.943e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.6 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6288M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.759e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.7 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6216M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.539e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.8 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6144M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.327e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 1.9 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6074M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 5.170e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.0 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.6005M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.890e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.1 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5936M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.640e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.2 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5868M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.435e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.3 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5801M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 4.217e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.4 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5734M=84
+N=672
+Decoded 50 blocks, 0 valid.  Average 30.0 iterations
+Block error rate: 1.000e+00
+Bit error rate: 3.946e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.5 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5669M=84
+N=672
+Decoded 51 blocks, 1 valid.  Average 29.6 iterations
+Block error rate: 9.804e-01
+Bit error rate: 3.714e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.6 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5604M=84
+N=672
+Decoded 51 blocks, 1 valid.  Average 29.5 iterations
+Block error rate: 9.804e-01
+Bit error rate: 3.528e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.7 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5540M=84
+N=672
+Decoded 51 blocks, 1 valid.  Average 29.5 iterations
+Block error rate: 9.804e-01
+Bit error rate: 3.306e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.8 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5476M=84
+N=672
+Decoded 51 blocks, 1 valid.  Average 29.5 iterations
+Block error rate: 9.804e-01
+Bit error rate: 3.055e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 2.9 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5414M=84
+N=672
+Decoded 55 blocks, 5 valid.  Average 28.1 iterations
+Block error rate: 9.091e-01
+Bit error rate: 2.689e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.0 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5352M=84
+N=672
+Decoded 60 blocks, 10 valid.  Average 26.3 iterations
+Block error rate: 8.333e-01
+Bit error rate: 2.309e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.1 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5290M=84
+N=672
+Decoded 68 blocks, 18 valid.  Average 23.6 iterations
+Block error rate: 7.353e-01
+Bit error rate: 1.945e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.2 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5230M=84
+N=672
+Decoded 76 blocks, 26 valid.  Average 21.4 iterations
+Block error rate: 6.579e-01
+Bit error rate: 1.743e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.3 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5170M=84
+N=672
+Decoded 84 blocks, 34 valid.  Average 19.6 iterations
+Block error rate: 5.952e-01
+Bit error rate: 1.520e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.4 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5111M=84
+N=672
+Decoded 92 blocks, 42 valid.  Average 17.9 iterations
+Block error rate: 5.435e-01
+Bit error rate: 1.317e-02
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.5 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.5052M=84
+N=672
+Decoded 126 blocks, 76 valid.  Average 14.4 iterations
+Block error rate: 3.968e-01
+Bit error rate: 9.401e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.6 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4994M=84
+N=672
+Decoded 153 blocks, 103 valid.  Average 12.4 iterations
+Block error rate: 3.268e-01
+Bit error rate: 6.925e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.7 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4937M=84
+N=672
+Decoded 226 blocks, 176 valid.  Average 9.5 iterations
+Block error rate: 2.212e-01
+Bit error rate: 4.721e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.8 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4881M=84
+N=672
+Decoded 355 blocks, 305 valid.  Average 7.0 iterations
+Block error rate: 1.408e-01
+Bit error rate: 2.867e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 3.9 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4825M=84
+N=672
+Decoded 655 blocks, 605 valid.  Average 5.1 iterations
+Block error rate: 7.634e-02
+Bit error rate: 1.547e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.0 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4770M=84
+N=672
+Decoded 1021 blocks, 971 valid.  Average 4.1 iterations
+Block error rate: 4.897e-02
+Bit error rate: 1.013e-03
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.1 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4715M=84
+N=672
+Decoded 1520 blocks, 1470 valid.  Average 3.3 iterations
+Block error rate: 3.289e-02
+Bit error rate: 6.608e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.2 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4661M=84
+N=672
+Decoded 2129 blocks, 2079 valid.  Average 2.8 iterations
+Block error rate: 2.349e-02
+Bit error rate: 4.194e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.3 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4608M=84
+N=672
+Decoded 3846 blocks, 3796 valid.  Average 2.4 iterations
+Block error rate: 1.300e-02
+Bit error rate: 2.426e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.4 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4555M=84
+N=672
+Decoded 8325 blocks, 8275 valid.  Average 2.0 iterations
+Block error rate: 6.006e-03
+Bit error rate: 1.040e-04
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.5 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4503M=84
+N=672
+Decoded 17634 blocks, 17584 valid.  Average 1.7 iterations
+Block error rate: 2.835e-03
+Bit error rate: 4.903e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.6 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4451M=84
+N=672
+Decoded 30033 blocks, 29983 valid.  Average 1.6 iterations
+Block error rate: 1.665e-03
+Bit error rate: 2.884e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.7 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4400M=84
+N=672
+Decoded 54481 blocks, 54431 valid.  Average 1.4 iterations
+Block error rate: 9.178e-04
+Bit error rate: 1.764e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.8 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4350M=84
+N=672
+Decoded 73544 blocks, 73494 valid.  Average 1.3 iterations
+Block error rate: 6.799e-04
+Bit error rate: 1.127e-05
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.9 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4300M=84
+N=672
+Decoded 135004 blocks, 134954 valid.  Average 1.2 iterations
+Block error rate: 3.704e-04
+Bit error rate: 6.261e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.0 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4251M=84
+N=672
+Decoded 312359 blocks, 312309 valid.  Average 1.2 iterations
+Block error rate: 1.601e-04
+Bit error rate: 2.382e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.1 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4202M=84
+N=672
+block 500001 error block 41 errorbit 441.
+ Block error rate: 8.200e-05
+Decoded 726730 blocks, 726680 valid.  Average 1.1 iterations
+Block error rate: 6.880e-05
+Bit error rate: 1.061e-06
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.2 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4154M=84
+N=672
+block 500001 error block 23 errorbit 237.
+ Block error rate: 4.600e-05
+block 1000001 error block 43 errorbit 446.
+ Block error rate: 4.300e-05
+Decoded 1141745 blocks, 1141695 valid.  Average 1.1 iterations
+Block error rate: 4.379e-05
+Bit error rate: 6.491e-07
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.3 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4107M=84
+N=672
+block 500001 error block 6 errorbit 57.
+ Block error rate: 1.200e-05
+block 1000001 error block 16 errorbit 148.
+ Block error rate: 1.600e-05
+block 1500001 error block 31 errorbit 271.
+ Block error rate: 2.067e-05
+block 2000001 error block 38 errorbit 339.
+ Block error rate: 1.900e-05
+Decoded 2000001 blocks, 1999963 valid.  Average 1.1 iterations
+Block error rate: 1.900e-05
+Bit error rate: 2.522e-07
+./main H_irregular_588_672.h 84 rs2048.dat awgn 5.4 BP_layered_awgn 30 50 2000000 codeword_irregular_588_672.txt
+0.4060M=84
+N=672
+block 500001 error block 1 errorbit 8.
+ Block error rate: 2.000e-06
+block 1000001 error block 7 errorbit 50.
+ Block error rate: 7.000e-06
+block 1500001 error block 17 errorbit 128.
+ Block error rate: 1.133e-05
+block 2000001 error block 23 errorbit 175.
+ Block error rate: 1.150e-05
+Decoded 2000001 blocks, 1999978 valid.  Average 1.0 iterations
+Block error rate: 1.150e-05
+Bit error rate: 1.302e-07
+
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.0 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.1 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.2 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.3 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.4 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.6 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.7 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.8 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.9 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.0 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.1 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.2 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.3 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.4 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.5 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.6 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.7 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.8 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.9 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.0 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.1 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.2 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.3 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.4 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.5 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.6 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.7 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.8 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.9 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.0 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.1 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.2 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.3 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.4 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.5 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.6 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.7 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.8 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.9 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.0 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.1 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.2 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.3 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.4 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.5 MS_flooding_awgn_orig 30 50 2000000 codeword_dv3R075N1296.txt
+
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.0 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.1 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.2 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.3 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.4 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.6 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.7 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.8 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.9 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.0 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.1 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.2 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.3 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.4 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.5 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.6 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.7 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.8 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.9 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.0 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.1 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.2 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.3 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.4 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.5 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.6 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.7 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.8 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.9 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.0 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.1 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.2 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.3 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.4 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.5 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.6 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.7 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.8 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.9 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.0 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.1 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.2 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.3 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.4 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.5 MS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.0 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.1 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.2 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.3 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.4 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.6 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.7 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.8 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.9 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.0 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.1 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.2 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.3 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.4 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.5 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.6 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.7 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.8 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.9 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.0 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.1 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.2 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.3 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.4 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.5 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.6 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.7 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.8 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.9 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.0 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.1 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.2 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.3 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.4 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.5 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.6 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.7 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.8 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.9 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.0 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.1 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.2 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.3 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.4 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.5 OMS_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.0 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.1 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.2 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.3 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.4 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.6 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.7 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.8 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.9 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.0 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.1 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.2 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.3 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.4 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.5 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.6 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.7 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.8 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.9 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.0 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.1 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.2 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.3 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.4 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.5 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.6 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.7 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.8 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.9 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.0 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.1 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.2 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.3 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.4 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.5 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.6 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.7 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.8 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.9 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.0 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.1 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.2 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.3 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.4 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.5 OMS_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.0 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.1 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.2 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.3 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.4 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.6 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.7 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.8 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.9 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.0 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.1 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.2 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.3 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.4 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.5 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.6 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.7 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.8 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.9 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.0 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.1 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.2 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.3 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.4 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.5 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.6 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.7 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.8 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.9 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.0 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.1 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.2 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.3 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.4 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.5 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.6 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.7 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.8 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.9 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.0 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.1 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.2 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.3 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.4 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.5 BP_layered_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.0 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.1 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.2 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.3 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.4 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.6 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.7 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.8 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 0.9 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.0 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.1 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.2 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.3 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.4 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.5 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.6 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.7 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.8 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 1.9 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.0 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.1 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.2 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.3 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.4 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.5 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.6 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.7 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.8 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 2.9 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.0 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.1 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.2 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.3 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.4 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.5 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.6 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.7 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt 
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.8 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 3.9 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.0 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.1 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+# ./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.2 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.3 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+0.4977M=324
+N=1296
+block 500001 error block 17 errorbit 256.
+ Block error rate: 3.400e-05
+block 1000001 error block 24 errorbit 323.
+ Block error rate: 2.400e-05
+block 1500001 error block 32 errorbit 475.
+ Block error rate: 2.133e-05
+block 2000001 error block 40 errorbit 527.
+ Block error rate: 2.000e-05
+Decoded 2000001 blocks, 1999961 valid.  Average 2.7 iterations
+Block error rate: 2.000e-05
+Bit error rate: 2.033e-07
+./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.4 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+0.4920M=324
+N=1296
+block 500001 error block 8 errorbit 117.
+ Block error rate: 1.600e-05
+block 1000001 error block 16 errorbit 168.
+ Block error rate: 1.600e-05
+block 1500001 error block 23 errorbit 241.
+ Block error rate: 1.533e-05
+block 2000001 error block 26 errorbit 264.
+ Block error rate: 1.300e-05
+Decoded 2000001 blocks, 1999975 valid.  Average 2.6 iterations
+Block error rate: 1.300e-05
+Bit error rate: 1.019e-07
+./main H_dv3R075N1296.h 84 rs2048.dat awgn 4.5 BP_flooding_awgn 30 50 2000000 codeword_dv3R075N1296.txt
+0.4864M=324
+N=1296
+block 500001 error block 8 errorbit 122.
+ Block error rate: 1.600e-05
+block 1000001 error block 10 errorbit 142.
+ Block error rate: 1.000e-05
+block 1500001 error block 13 errorbit 156.
+ Block error rate: 8.667e-06
+block 2000001 error block 15 errorbit 169.
+ Block error rate: 7.500e-06
+Decoded 2000001 blocks, 1999986 valid.  Average 2.4 iterations
+Block error rate: 7.500e-06
+Bit error rate: 6.520e-08

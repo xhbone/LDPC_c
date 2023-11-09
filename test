@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e  # Stop if an error occurs
+set -v  # Echo commands as they are read
+
+
+./main H_irregular_588_672.h 84 rs2048.dat awgn 4.5 stochastic_BP_awgn 1000 50 1000000000
+
+#./main H_irregular_588_672.h 84 rs2048.dat awgn 4.0 MS_layered_awgn 30 50 1000000000

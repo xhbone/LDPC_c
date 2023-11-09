@@ -1,0 +1,4 @@
+#!/bin/sh
+
+set -e  # Stop if an error occurs
+set -v  # Echo commands as they are read
